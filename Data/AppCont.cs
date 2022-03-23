@@ -11,6 +11,5 @@ namespace toDo.Data
         }
 
         public DbSet<Tarefa> Tarefas { get; set; }
-
     }
 }
